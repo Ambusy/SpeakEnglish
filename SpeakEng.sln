@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakEng", "SpeakEng\SpeakEng.csproj", "{21C19597-99EB-411F-9296-2F178345C908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C19597-99EB-411F-9296-2F178345C908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C19597-99EB-411F-9296-2F178345C908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C19597-99EB-411F-9296-2F178345C908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C19597-99EB-411F-9296-2F178345C908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F005F4E-D97B-4004-8D70-9F93DEA4918B}
+	EndGlobalSection
+EndGlobal
